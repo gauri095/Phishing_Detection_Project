@@ -1,0 +1,10 @@
+streamlit>=1.25
+pandas
+scikit-learn
+joblib
+tldextract
+transformers>=4.30
+datasets
+torch             # or install CPU-only torch if you don't have GPU
+lime              # optional, for explanations
+evaluate
